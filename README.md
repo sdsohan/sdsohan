@@ -11,7 +11,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
  
  <!--
  <a href="https://github.com/sdsohan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohanahmed&theme=light&hide_langs_below=1&&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsohan&theme=light&hide_langs_below=1&&title_color=fff&text_color=fff" />
 </a>
 
 -->
