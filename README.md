@@ -13,7 +13,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsohan&theme=light&hide_langs_below=1&bg_color=30,3678d6,904e95&title_color=fff&text_color=fff" />
 </a>
 
-
+ <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohanahmed&hide_border=true&bg_color=30,3678d6,904e95&title_color=fff&text_color=fff&layout=compact">
  <p/>
  
 <br>
