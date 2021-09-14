@@ -61,7 +61,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 ## 🌟 🤝 Available for : 
 
 - 💾 Full Stack Web Development in MERN Stack,  Wordpress & Shopify 
--:iphone: 👨🏽‍💻 Freelancing Projects
+- :iphone: 👨🏽‍💻 Freelancing Projects
 
 <!--
 
