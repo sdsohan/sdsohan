@@ -2,7 +2,7 @@
 ### Welcome to my profile :smiley: 
 Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer** and studied B.Sc Engineering :mortar_board: in **Computer Science and Engineering** in **Daffodil Institute of IT** at Dhaka :bangladesh:
 
- 
+
 <br>
 <br>
 
@@ -49,6 +49,13 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 🤖 **Cyber security** and **penetration testing** <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795095-6ca68900-2b55-11eb-824c-0d03af314873.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795099-6e704c80-2b55-11eb-8126-83fdbb1daa48.png"></code>
 <br>
+<div> 
+  
+ 
+  ![Snake animation](https://github.com/sdsohan/sdsohan/blob/main/github-user-contribution.svg)
+ 
+</div>
+ 
 
 ## 📝 🌱 I’m currently learning  ...
 
@@ -108,7 +115,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="syedsohanahmed"><a class="LI-simple-link" href='https://bd.linkedin.com/in/syedsohanahmed?trk=profile-badge'>Syed Sohan Ahmed</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="syedsohanahmed"><a class="LI-simple-link" href='https://bd.linkedin.com/in/syedsohanahmed?trk=profile-badge'>Syed Sohan Ahmed</a ![Snake animation]>
+ ![Snake animation] https://github.com/sdsohan/sdsohan/blob/main/github-user-contribution.svg
+</div>
+
+
+
 
 
 [website]: https://syedsohanahmed.com/
