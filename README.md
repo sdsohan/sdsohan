@@ -37,6 +37,12 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <br>
 <br>
+<div> 
+  
+ 
+  ![Snake animation](https://github.com/sdsohan/sdsohan/blob/main/github-user-contribution.svg)
+ 
+</div>
 
 
 ##  🖥️ 🔭 I’m currently working on 
@@ -49,12 +55,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 🤖 **Cyber security** and **penetration testing** <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795095-6ca68900-2b55-11eb-824c-0d03af314873.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795099-6e704c80-2b55-11eb-8126-83fdbb1daa48.png"></code>
 <br>
-<div> 
-  
- 
-  ![Snake animation](https://github.com/sdsohan/sdsohan/blob/main/github-user-contribution.svg)
- 
-</div>
+
  
 
 ## 📝 🌱 I’m currently learning  ...
