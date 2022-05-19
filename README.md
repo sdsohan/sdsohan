@@ -25,10 +25,11 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsohan" alt="sdsohan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdsohan&show_icons=true&locale=en" alt="sdsohan" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib160&" alt="sdsohan" /></p>
 <br>
-<br>
+
 
 ### Languages and Tools:
 
@@ -47,9 +48,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 
 ##  🖥️ 🔭 I’m currently working on 
