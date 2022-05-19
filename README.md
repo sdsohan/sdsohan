@@ -22,10 +22,11 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
  
 </div>
 
-<p align='center'><img align="left" src="https://github-readme-stats.vercel.app/api?username=sdsohan&show_icons=true&icon_color=118c4e&title_color=118c4e" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsohan" alt="sdsohan" /></p>
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdsohan&" alt="sdsohan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdsohan&show_icons=true&locale=en" alt="sdsohan" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib160&" alt="sdsohan" /></p>
 <br>
 <br>
 
