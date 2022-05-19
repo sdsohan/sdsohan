@@ -22,6 +22,11 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdsohan.sdsohan)
+<div> 
+  
+  ![Snake animation](https://github.com/sdsohan/sdsohan/blob/main/github-user-contribution.svg)
+ 
+</div>
 
 <p align='center'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsohan" alt="sdsohan" /></p>
 
@@ -62,12 +67,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <br>
 <br>
-<div> 
-  
- 
-  ![Snake animation](https://github.com/sdsohan/sdsohan/blob/main/github-user-contribution.svg)
- 
-</div>
+
 
 
 ##  🖥️ 🔭 I’m currently working on 
