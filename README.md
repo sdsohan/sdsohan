@@ -6,7 +6,8 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 
 ♥️ I enjoy to make people laugh and coding. <br/>
 📫 How to reach me: [email](sdsohan48@gmail.com) or [facebook](https://www.facebook.com/syedsohanahmed) <br/>
-💬 Ask me about anything <br/>
+💬 Ask me about anything 
+<br/>
 
 #### Things I code with
 
@@ -89,9 +90,13 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 :point_down:
 <br>
+
  #### Connect with me:
  
+ <br>
+ 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/syedsohanahmed) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/syedsohanahmed) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedsohanahmed/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syed_sohan_ahmed)
+
 
 <br>
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -101,10 +106,9 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 <br>
-<b>
+
 <p align='center'>
  **Thank You**
-</a>
  <p/>
  </b>
 <br>
