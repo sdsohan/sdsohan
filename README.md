@@ -42,29 +42,29 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - 🤖 **Cyber security** and **penetration testing** <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795095-6ca68900-2b55-11eb-824c-0d03af314873.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/21335270/99795099-6e704c80-2b55-11eb-8126-83fdbb1daa48.png"></code>
 <br>
-
+<br>
  
+## 🌟 🤝 Available for : 
 
+- 💾 Full Stack Web Development in MERN Stack,  Wordpress & Shopify 
+- :iphone: 👨🏽‍💻 Freelancing Projects
+<br>
+<br>
 ## 📝 🌱 I’m currently learning  ...
 
 - :atom: ⚛️ Backend Development with Django
 - 👾 Machine Learning, AI, iOT & Chatbot
 - 💱 BlockChain Development
 - :computer: Linux Enthusiast (Kali | Parrot OS | Manjaro | Linux Mint)
-
-
-## 🌟 🤝 Available for : 
-
-- 💾 Full Stack Web Development in MERN Stack,  Wordpress & Shopify 
-- :iphone: 👨🏽‍💻 Freelancing Projects
-
+<br>
+<br>
 <!--
 
 <p align='center'>
  <a href = "" > 🧠 See my Resume </a> 
 <p/>
 -->
-
+<br>
 <br>
 <!-- ### Languages and Tools: -->
 
@@ -81,10 +81,14 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <img align="left" alt="Wordpress" width="35px" src="https://user-images.githubusercontent.com/21335270/99794075-d6259800-2b53-11eb-8567-84d972c91a94.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br>
-
-
+<br>
+<br>
 ## 💌 Contact And Social 💬 Ask me about
 :point_down:
+
+
+
+
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
