@@ -27,7 +27,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdsohan&show_icons=true&locale=en" alt="sdsohan" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib160&" alt="sdsohan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdsohan&" alt="sdsohan" /></p>
 <br>
 
 
