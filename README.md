@@ -50,6 +50,7 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 - :iphone: 👨🏽‍💻 Freelancing Projects
 <br>
 <br>
+
 ## 📝 🌱 I’m currently learning  ...
 
 - :atom: ⚛️ Backend Development with Django
