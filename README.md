@@ -87,9 +87,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 
 ## 💌 Contact And Social 💬 Ask me about
-<br>
-:point_down:
-<br>
 
  #### Connect with me:
  
@@ -97,22 +94,6 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
  
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/syedsohanahmed) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/syedsohanahmed) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedsohanahmed/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syed_sohan_ahmed)
 
-
-<br>
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
-<br>
-
-<p align='center'>
- **Thank You**
- <p/>
- </b>
-<br>
-<br>
 
 <!--
 ### ⚡ Fun fact:
@@ -128,9 +109,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  
-
-[website]: https://syedsohanahmed.com/
-[twitter]: https://twitter.com/syedsohanahmed
-[youtube]: https://www.youtube.com/syedsohanahmed
-[instagram]: https://www.instagram.com/syed_sohan_ahmed/
-[linkedin]: https://www.linkedin.com/in/syedsohanahmed/
