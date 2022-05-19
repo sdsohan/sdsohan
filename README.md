@@ -33,8 +33,8 @@ Hey :wave: I'm ✨ **Syed Sohan Ahmed** ✨ working as  **Full Stack Developer**
 <br>
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=sdsohan&show_icons=true&icon_color=118c4e&title_color=118c4e">
- 
-
+ <p/>
+ <p align='center'>
  <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sdsohan&hide_border=true&layout=compact">
  <p/>
  
